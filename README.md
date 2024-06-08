@@ -1,11 +1,11 @@
 
 <p>
-  <img height="250px" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=hyper750&show_icons=true&locale=en" alt="hyper750" />
-  <img height="250px" width="50%" src="https://github-readme-stats.vercel.app/api?username=hyper750&show_icons=true&locale=en" alt="hyper750" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=hyper750&show_icons=true&locale=en" alt="hyper750" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hyper750&show_icons=true&locale=en" alt="hyper750" />
 </p>
 
 <p>
-  <img height="250px" width="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hyper750" alt="hyper750" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hyper750" alt="hyper750" />
 </p>
 
 <!--
