@@ -5,7 +5,7 @@
 </p>
 
 <p>
-  <img width="84%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hyper750&" alt="hyper750" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hyper750&" alt="hyper750" />
 </p>
 
 <!--
